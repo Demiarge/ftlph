@@ -4,3 +4,6 @@ entitlements.auth.riotgames.com
 riot-geo.pas.si.riotgames.com
 sea.edge.rms.si.riotgames.com
 telemetry.sgp.pvp.net
+ap.vg.ac.pvp.net
+shared.ap.a.pvp.net
+data.riotgames.com
