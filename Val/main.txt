@@ -1,0 +1,6 @@
+clientconfig.rpg.riotgames.com
+auth.riotgames.com
+entitlements.auth.riotgames.com
+riot-geo.pas.si.riotgames.com
+sea.edge.rms.si.riotgames.com
+telemetry.sgp.pvp.net
