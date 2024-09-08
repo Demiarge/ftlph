@@ -7,3 +7,9 @@ telemetry.sgp.pvp.net
 ap.vg.ac.pvp.net
 shared.ap.a.pvp.net
 data.riotgames.com
+
+
+player-preferences-usw2.pp.sgp.pvp.net
+player-preferences-usw2.pp.sgp.pvp.net.cdn.cloudflare.net
+sa3.chat.si.riotgames.com
+ekg.riotgames.com
