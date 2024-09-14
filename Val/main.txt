@@ -1,3 +1,7 @@
+*.pvp.net
+
+
+
 clientconfig.rpg.riotgames.com
 auth.riotgames.com
 entitlements.auth.riotgames.com
